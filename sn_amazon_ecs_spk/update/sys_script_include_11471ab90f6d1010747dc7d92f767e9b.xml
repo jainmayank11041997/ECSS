@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>sn_amazon_ecs_spk.AmazonECSUtil</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>AmazonECSUtil</name>
+        <script><![CDATA[var AmazonECSUtil = Class.create();
+AmazonECSUtil.prototype = {
+    initialize: function() {},
+    trimString: function(strings) {
+        for (var str in strings) {
+            if (strings[str] && typeof strings[str] === "string") {
+                strings[str] = strings[str].trim();
+                if (strings[str] === "") throw new Error("Empty string not allowed.");
+            }
+        }
+        return strings;
+    },
+    buildPayload: function(payload, field, values) {
+        gs.info("PAYLOAD DATA " + JSON.stringify(values));
+        var query = [];
+        var str = "";
+        for (var j = 0; payload && j < payload.length; j++) {
+
+
+            for (var i = 0; i < values.length; i++) {
+				JSON.stringify("Length "+values.length);
+                if (payload[j][values[i]]) {
+                    str = "";
+                    gs.info("Values " + i + " " + values[i]);
+                    str = field + (j + 1) + "." + values[i] + "=" + payload[j][values[i]];
+                    query.push(str);
+
+                }
+
+
+
+            }
+
+        }
+        return query.join("&");
+
+    },
+    buildStringPayload: function(payload, field) {
+        var query = [];
+        var str = "";
+        for (var j = 0; payload && j < payload.length; j++) {
+            if (payload[j]) {
+                str = "";
+              //  gs.info("Values " + i + " " + values[i]);
+                str = field + (j + 1) + "=" + payload[j];
+                query.push(str);
+
+            }
+
+
+
+        }
+
+        return query.join("&");
+    },
+
+    type: 'AmazonECSUtil'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-22 18:14:14</sys_created_on>
+        <sys_id>11471ab90f6d1010747dc7d92f767e9b</sys_id>
+        <sys_mod_count>24</sys_mod_count>
+        <sys_name>AmazonECSUtil</sys_name>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_script_include_11471ab90f6d1010747dc7d92f767e9b</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 07:29:42</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD554034a2e9e154108c35cf4c17e0e648</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD554034a2e9e154108c35cf4c17e0e648":{"$COCollectionField":[{"Placement_Strategy":{"field":"String","field.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"type":"String","type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Choice\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"choice\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"32\"}","SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Spread\":\"{\\\"label\\\":\\\"Spread\\\",\\\"value\\\":\\\"spread\\\",\\\"order\\\":2}\",\"Random\":\"{\\\"label\\\":\\\"Random\\\",\\\"value\\\":\\\"random\\\",\\\"order\\\":1}\",\"Binpack\":\"{\\\"label\\\":\\\"Binpack\\\",\\\"value\\\":\\\"binpack\\\",\\\"order\\\":3}\"}}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Placement Strategy\",\"mandatory\":\"false\",\"child_name\":\"Placement_Strategy\",\"uiUniqueId\":\"cbc6df35-9a86-4d58-93bb-900fc427f976\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD554034a2e9e154108c35cf4c17e0e648\",\"child_label\":\"Placement Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"17\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4a78660d-ff56-42a4-a836-045bad941321\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD554034a2e9e154108c35cf4c17e0e648.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Placement Strategy\",\"mandatory\":\"false\",\"child_name\":\"Placement_Strategy\",\"uiUniqueId\":\"cbc6df35-9a86-4d58-93bb-900fc427f976\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD554034a2e9e154108c35cf4c17e0e648\",\"child_label\":\"Placement Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"17\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"4a78660d-ff56-42a4-a836-045bad941321\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 18:39:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>194034a2dbe15410922a232d13961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD554034a2e9e154108c35cf4c17e0e648</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_194034a2dbe15410922a232d13961948</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 18:39:30</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

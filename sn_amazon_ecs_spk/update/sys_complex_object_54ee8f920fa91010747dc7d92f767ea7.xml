@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD90ee8f92a6a91010e2acff8612f7d9a7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD90ee8f92a6a91010e2acff8612f7d9a7":{"$COCollectionField":[{"capacity_provider_strategy":{"capacity_provider":"String","capacity_provider.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Capacity Provider\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"weight":"String","weight.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Weight\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"base":"String","base.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Base\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Capacity Provider Strategy\",\"mandatory\":\"false\",\"child_name\":\"capacity_provider_strategy\",\"uiUniqueId\":\"4198a801-228a-4d12-9c05-56bae979433e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD90ee8f92a6a91010e2acff8612f7d9a7\",\"child_label\":\"Capacity Provider Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"019c6aa2-3c1c-492e-969e-89a5c043cac2\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD90ee8f92a6a91010e2acff8612f7d9a7.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Capacity Provider Strategy\",\"mandatory\":\"false\",\"child_name\":\"capacity_provider_strategy\",\"uiUniqueId\":\"4198a801-228a-4d12-9c05-56bae979433e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD90ee8f92a6a91010e2acff8612f7d9a7\",\"child_label\":\"Capacity Provider Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"019c6aa2-3c1c-492e-969e-89a5c043cac2\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-24 11:34:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>54ee8f920fa91010747dc7d92f767ea7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FD90ee8f92a6a91010e2acff8612f7d9a7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_54ee8f920fa91010747dc7d92f767ea7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-24 11:38:02</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

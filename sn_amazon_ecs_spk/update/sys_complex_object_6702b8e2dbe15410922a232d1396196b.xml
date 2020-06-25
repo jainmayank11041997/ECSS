@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDa302b8e2f9e1541043045a2ebe6ffa6b</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FDa302b8e2f9e1541043045a2ebe6ffa6b":{"$COCollectionField":[{"capacity_provider_strategy":{"capacity_provider":"String","capacity_provider.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Capacity Provider\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"weight":"String","weight.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Weight\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"base":"String","base.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Base\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Capacity Provider Strategy\",\"mandatory\":\"false\",\"child_name\":\"capacity_provider_strategy\",\"uiUniqueId\":\"4198a801-228a-4d12-9c05-56bae979433e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDa302b8e2f9e1541043045a2ebe6ffa6b\",\"child_label\":\"Capacity Provider Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"ce67f83e-34f9-49c9-bf6a-cb3f2361cde1\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDa302b8e2f9e1541043045a2ebe6ffa6b.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Capacity Provider Strategy\",\"mandatory\":\"false\",\"child_name\":\"capacity_provider_strategy\",\"uiUniqueId\":\"4198a801-228a-4d12-9c05-56bae979433e\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDa302b8e2f9e1541043045a2ebe6ffa6b\",\"child_label\":\"Capacity Provider Strategy\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"ce67f83e-34f9-49c9-bf6a-cb3f2361cde1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 18:47:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6702b8e2dbe15410922a232d1396196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDa302b8e2f9e1541043045a2ebe6ffa6b</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_6702b8e2dbe15410922a232d1396196b</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 18:47:18</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

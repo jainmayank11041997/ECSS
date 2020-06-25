@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD91c97a6e85e554103dceda8df697cf2d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD91c97a6e85e554103dceda8df697cf2d":{"$COCollectionField":[{"placement_constraints":{"expression":"String","expression.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Expression\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"type":"String","type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Choice\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"choice\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}","SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Distinct Instance\":\"{\\\"label\\\":\\\"Distinct Instance\\\",\\\"value\\\":\\\"distinctInstance\\\",\\\"order\\\":1}\",\"Member OF\":\"{\\\"label\\\":\\\"Member OF\\\",\\\"value\\\":\\\"memberOf\\\",\\\"order\\\":2}\"}}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Placement Constraints\",\"mandatory\":\"false\",\"child_name\":\"placement_constraints\",\"uiUniqueId\":\"c33e5536-e60d-4f1f-87d7-15918b25a2a5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD91c97a6e85e554103dceda8df697cf2d\",\"child_label\":\"Placement Constraints\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"16\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0cc8bfe6-2fbb-4ca3-8cf7-05ae1144dab8\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD91c97a6e85e554103dceda8df697cf2d.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Placement Constraints\",\"mandatory\":\"false\",\"child_name\":\"placement_constraints\",\"uiUniqueId\":\"c33e5536-e60d-4f1f-87d7-15918b25a2a5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD91c97a6e85e554103dceda8df697cf2d\",\"child_label\":\"Placement Constraints\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"16\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0cc8bfe6-2fbb-4ca3-8cf7-05ae1144dab8\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:40:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>55c97a6edbe55410922a232d1396192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD91c97a6e85e554103dceda8df697cf2d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_55c97a6edbe55410922a232d1396192d</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:40:14</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD18a6da129fad141026a44c422e2ba593</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD18a6da129fad141026a44c422e2ba593":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD18a6da129fad141026a44c422e2ba593.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Capacity\",\"mandatory\":\"false\",\"child_name\":\"capacity\",\"uiUniqueId\":\"99f557a4-15b7-41d8-be04-b2024d1b0111\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD18a6da129fad141026a44c422e2ba593\",\"child_label\":\"Capacity\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"5\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"2e79555a-34a8-4326-b93e-453f093eed18\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 07:28:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d8a6da12dbad1410922a232d13961993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD18a6da129fad141026a44c422e2ba593</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_d8a6da12dbad1410922a232d13961993</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 07:28:14</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

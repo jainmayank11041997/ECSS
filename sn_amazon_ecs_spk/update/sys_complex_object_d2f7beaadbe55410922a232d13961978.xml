@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD12f7beaa09e55410d4b935f755764478</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD12f7beaa09e55410d4b935f755764478":{"$COCollectionField":[{"failures":{"reason":"String","reason.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Reason\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"3a40cb59-df6c-4f00-b75d-2e536823cda5\"}"},"arn":"String","arn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ARN\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"5bb688ae-246f-422d-bbf5-89281a79aa7a\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"301d0478-e473-425b-b62a-a0cae43c1c01\",\"default_value\":\"\",\"label\":\"Failures\",\"mandatory\":\"false\",\"child_name\":\"failures\",\"uiUniqueId\":\"ed309ae4-8f94-40ed-ac12-7d18556ced7b\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12f7beaa09e55410d4b935f755764478\",\"child_label\":\"Failures\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d83aed61-3afb-4d15-a5e6-685ebffdf889\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0037be26-1157-4a8d-8bbd-5391c69a59a1\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD12f7beaa09e55410d4b935f755764478.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"301d0478-e473-425b-b62a-a0cae43c1c01\",\"default_value\":\"\",\"label\":\"Failures\",\"mandatory\":\"false\",\"child_name\":\"failures\",\"uiUniqueId\":\"ed309ae4-8f94-40ed-ac12-7d18556ced7b\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD12f7beaa09e55410d4b935f755764478\",\"child_label\":\"Failures\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d83aed61-3afb-4d15-a5e6-685ebffdf889\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"2\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"0037be26-1157-4a8d-8bbd-5391c69a59a1\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:32:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d2f7beaadbe55410922a232d13961978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD12f7beaa09e55410d4b935f755764478</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_d2f7beaadbe55410922a232d13961978</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:32:23</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

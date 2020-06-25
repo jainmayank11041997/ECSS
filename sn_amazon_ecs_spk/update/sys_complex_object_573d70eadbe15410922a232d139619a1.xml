@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD933d70ea1be15410bfc8be56d4d960a1</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD933d70ea1be15410bfc8be56d4d960a1":{"minimum_healthy_percent":"String","minimum_healthy_percent.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Minimum Healthy Percent\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"maximum_percent":"String","maximum_percent.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Maximum Percent\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD933d70ea1be15410bfc8be56d4d960a1.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD933d70ea1be15410bfc8be56d4d960a1\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Deployment Configuration\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"65000\",\"uiUniqueId\":\"21ab3b35-85e5-4b48-822b-b173a9516359\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 19:36:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>573d70eadbe15410922a232d139619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD933d70ea1be15410bfc8be56d4d960a1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_573d70eadbe15410922a232d139619a1</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 19:36:10</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

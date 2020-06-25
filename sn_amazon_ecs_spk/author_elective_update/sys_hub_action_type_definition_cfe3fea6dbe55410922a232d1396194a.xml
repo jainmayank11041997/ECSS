@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category display_value="Service Management">43d372e6dbe55410922a232d13961902</category>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>delete_service</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Delete Service</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:14:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>cfe3fea6dbe55410922a232d1396194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete Service</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_cfe3fea6dbe55410922a232d1396194a</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:14:42</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=cfe3fea6dbe55410922a232d1396194a"/>
+    <sys_variable_value action="DELETE" query="document_key=cfe3fea6dbe55410922a232d1396194a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</application>
+        <file_path/>
+        <instance_id>afc37b20db258cd4f492c597059619f5</instance_id>
+        <instance_name>empmayankjain</instance_name>
+        <name>sys_hub_action_type_definition_cfe3fea6dbe55410922a232d1396194a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category display_value="Service Management">43d372e6dbe55410922a232d13961902</category><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>delete_service</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Delete Service</name><natlang/><outputs/><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>mayank.jain@snc</sys_created_by><sys_created_on>2020-06-25 04:14:42</sys_created_on><sys_domain>global</sys_domain><sys_id>cfe3fea6dbe55410922a232d1396194a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Delete Service</sys_name><sys_overrides/><sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package><sys_policy>read</sys_policy><sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope><sys_update_name>sys_hub_action_type_definition_cfe3fea6dbe55410922a232d1396194a</sys_update_name><sys_updated_by>mayank.jain@snc</sys_updated_by><sys_updated_on>2020-06-25 04:14:42</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=cfe3fea6dbe55410922a232d1396194a"/><sys_variable_value action="delete_multiple" query="document_key=cfe3fea6dbe55410922a232d1396194a"/></record_update>]]></payload>
+        <payload_hash>-2090507694</payload_hash>
+        <record_name>Delete Service</record_name>
+        <reverted_from/>
+        <source>ef9ce55adb2d1410922a232d13961970</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:14:42</sys_created_on>
+        <sys_id>0be3fea6dbe55410922a232d1396194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172e9af583d0000001</sys_recorded_at>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:14:42</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>03e3fea6d9e5541069098260199a914e</update_guid>
+        <update_guid_history>03e3fea6d9e5541069098260199a914e:-2090507694</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:16:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>2d82af19e3584384a90b7b036f74d141</sys_id>
+        <sys_metadata>cfe3fea6dbe55410922a232d1396194a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete Service</sys_name>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_scope_delete display_value="">1f006896ad894438ad5cd96c43da2da9</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_cfe3fea6dbe55410922a232d1396194a</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_cfe3fea6dbe55410922a232d1396194a">0be3fea6dbe55410922a232d1396194e</sys_update_version>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:16:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

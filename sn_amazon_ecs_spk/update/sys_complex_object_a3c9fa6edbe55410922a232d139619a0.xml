@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDefc9fa6e17e554103c6395755101ee9f</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FDefc9fa6e17e554103c6395755101ee9f":{"clusterArn":"String","clusterArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Cluster ARN\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"a7460fe9-5525-4f41-a2fb-0175021dfab5\"}"},"desiredCount":"String","desiredCount.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Desired Count\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"85453805-6af2-41f6-8a42-3cc99efb00d2\"}"},"serviceArn":"String","serviceArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Service ARN\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"8c562046-f869-44a8-9ccd-827de3a24f7f\"}"},"taskDefinition":"String","taskDefinition.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Task Definition\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"15cafeff-03a5-4ee2-bf77-00d2d9c20e8d\"}"},"serviceName":"String","serviceName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Service Name\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"c599f95f-63c9-46fd-ac0d-3c668f59c6d7\"}"}},"FlowDesigner:FDefc9fa6e17e554103c6395755101ee9f.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"46ef2f31-320b-439b-b0b9-b2459c82a3df\",\"default_value\":\"\",\"label\":\"Service\",\"mandatory\":\"false\",\"uiUniqueId\":\"0336ac5d-c722-4c61-a273-47b274a19dac\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDefc9fa6e17e554103c6395755101ee9f\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"d571bf53-c6af-420a-87a2-4be7cc3df043\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:40:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>a3c9fa6edbe55410922a232d139619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDefc9fa6e17e554103c6395755101ee9f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_a3c9fa6edbe55410922a232d139619a0</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:40:23</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

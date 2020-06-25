@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD8ccaadcea7ad1010784b91e3704db92d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD8ccaadcea7ad1010784b91e3704db92d":{"$COCollectionField":["String"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD8ccaadcea7ad1010784b91e3704db92d.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Capacity Providers\",\"mandatory\":\"false\",\"child_name\":\"Capacity_Provider\",\"uiUniqueId\":\"6a765a2f-4d14-4d7b-9ae6-12ecb866a996\",\"uiTypeLabel\":\"Array.String\",\"co_type_name\":\"FD8ccaadcea7ad1010784b91e3704db92d\",\"child_label\":\"Capacity Provider\",\"child_type_label\":\"String\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":\"\",\"uiType\":\"array.string\",\"child_defaultValue\":\"\",\"child_type\":\"string\",\"order\":\"4\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"daab8068-6078-4f7b-af22-b85521a8c090\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 09:38:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>40caadce0fad1010747dc7d92f767e2e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD8ccaadcea7ad1010784b91e3704db92d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_40caadce0fad1010747dc7d92f767e2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 09:40:23</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

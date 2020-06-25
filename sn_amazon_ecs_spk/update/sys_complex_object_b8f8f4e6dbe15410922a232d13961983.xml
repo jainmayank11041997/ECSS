@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDf4f8f4e6fce154109692b05a96dbcf83</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FDf4f8f4e6fce154109692b05a96dbcf83":{"security_groups":"String","security_groups.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Security Groups\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"subnets":"String","subnets.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Subnets\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"assign_public_ip":"String","assign_public_ip.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Assign Public IP\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FDf4f8f4e6fce154109692b05a96dbcf83.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Network Configuration\",\"mandatory\":\"false\",\"uiUniqueId\":\"30a00aec-f974-4f23-bc24-a8bdc25ab074\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDf4f8f4e6fce154109692b05a96dbcf83\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"7\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 19:17:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>b8f8f4e6dbe15410922a232d13961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDf4f8f4e6fce154109692b05a96dbcf83</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_b8f8f4e6dbe15410922a232d13961983</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 19:17:25</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

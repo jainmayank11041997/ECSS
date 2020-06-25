@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd3fd64227be15410eaf2071cf1ad0001</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FDd3fd64227be15410eaf2071cf1ad0001":{"$COCollectionField":[{"load_balancer":{"containerName":"String","containerName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"container Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"loadBalancerName":"String","loadBalancerName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Load Balancer Name\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"targetGroupArn":"String","targetGroupArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Target Group ARN\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"containerPort":"String","containerPort.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Container Port\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Load Balancer\",\"mandatory\":\"false\",\"child_name\":\"load_balancer\",\"uiUniqueId\":\"69f9aa97-e346-4a01-a2ea-2a265b9172ae\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDd3fd64227be15410eaf2071cf1ad0001\",\"child_label\":\"Load Balancer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"d3836c83-62c3-4f59-a66c-e4824b706294\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDd3fd64227be15410eaf2071cf1ad0001.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Load Balancer\",\"mandatory\":\"false\",\"child_name\":\"load_balancer\",\"uiUniqueId\":\"69f9aa97-e346-4a01-a2ea-2a265b9172ae\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDd3fd64227be15410eaf2071cf1ad0001\",\"child_label\":\"Load Balancer\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"d3836c83-62c3-4f59-a66c-e4824b706294\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 18:29:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>97fd6422dbe15410922a232d13961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDd3fd64227be15410eaf2071cf1ad0001</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_97fd6422dbe15410922a232d13961901</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 18:29:32</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

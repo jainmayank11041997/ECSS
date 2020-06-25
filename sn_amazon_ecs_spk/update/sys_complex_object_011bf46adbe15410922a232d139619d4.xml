@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD4d1bf46abee15410b5ca58831f0c22d3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD4d1bf46abee15410b5ca58831f0c22d3":{"clusterArn":"String","clusterArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Cluster ARN\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"desiredCount":"String","desiredCount.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Desired Count\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"serviceARN":"String","serviceARN.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Service ARN\",\"mandatory\":\"true\",\"order\":\"10\",\"max_length\":\"0\"}"},"taskDefinition":"String","taskDefinition.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Task Definition\",\"mandatory\":\"true\",\"order\":\"11\",\"max_length\":\"0\"}"},"serviceName":"String","serviceName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Service Name\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"},"events":[{"$908_events":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"ID\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Message\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"}}}],"events.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Events\",\"mandatory\":\"true\",\"child_name\":\"events\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"Events\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"5\",\"max_length\":\"0\",\"child_uiUniqueId\":\"195c119a-93e3-4798-a40e-619fc5e94b27\"}"}},"FlowDesigner:FD4d1bf46abee15410b5ca58831f0c22d3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Service\",\"mandatory\":\"true\",\"uiUniqueId\":\"70b95c32-200c-4cd0-b1e4-1df7c54acf78\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD4d1bf46abee15410b5ca58831f0c22d3\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 19:26:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>011bf46adbe15410922a232d139619d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD4d1bf46abee15410b5ca58831f0c22d3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_011bf46adbe15410922a232d139619d4</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 19:26:43</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

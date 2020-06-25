@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="DELETE">
+        <access>public</access>
+        <acls/>
+        <action_template/>
+        <active>true</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category display_value="Cluster Management">dec9deb90f6d1010747dc7d92f767e1c</category>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <ih_action>false</ih_action>
+        <internal_name>create_cluster</internal_name>
+        <label_cache/>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Create Cluster</name>
+        <natlang/>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-23 09:48:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e2de1420fed1010747dc7d92f767edd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Cluster</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_7e2de1420fed1010747dc7d92f767edd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-23 09:48:37</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="DELETE" query="documentkey=7e2de1420fed1010747dc7d92f767edd"/>
+    <sys_variable_value action="DELETE" query="document_key=7e2de1420fed1010747dc7d92f767edd"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</application>
+        <file_path/>
+        <instance_id>afc37b20db258cd4f492c597059619f5</instance_id>
+        <instance_name>empmayankjain</instance_name>
+        <name>sys_hub_action_type_definition_7e2de1420fed1010747dc7d92f767edd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_action_type_definition"><sys_hub_action_type_definition action="INSERT_OR_UPDATE"><access>public</access><acls/><action_template/><active>true</active><annotation/><callable_by_client_api>false</callable_by_client_api><category display_value="Cluster Management">dec9deb90f6d1010747dc7d92f767e1c</category><copied_from/><copied_from_name/><description/><ih_action>false</ih_action><internal_name>create_cluster</internal_name><label_cache/><latest_snapshot/><master_snapshot/><name>Create Cluster</name><natlang/><outputs/><state>draft</state><sys_class_name>sys_hub_action_type_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-23 09:48:37</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7e2de1420fed1010747dc7d92f767edd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create Cluster</sys_name><sys_overrides/><sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package><sys_policy>read</sys_policy><sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope><sys_update_name>sys_hub_action_type_definition_7e2de1420fed1010747dc7d92f767edd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-23 09:48:37</sys_updated_on><system_level>false</system_level><type/></sys_hub_action_type_definition><sys_translated_text action="delete_multiple" query="documentkey=7e2de1420fed1010747dc7d92f767edd"/><sys_variable_value action="delete_multiple" query="document_key=7e2de1420fed1010747dc7d92f767edd"/></record_update>]]></payload>
+        <payload_hash>-1611944214</payload_hash>
+        <record_name>Create Cluster</record_name>
+        <reverted_from/>
+        <source>2e4c2d1adb2d1410922a232d13961901</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 04:23:37</sys_created_on>
+        <sys_id>446ca15adb2d1410922a232d139619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172e49125750000001</sys_recorded_at>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 04:23:37</sys_updated_on>
+        <type>Action Type</type>
+        <update_guid>4b2de1428eed10108da710401adc3ce0</update_guid>
+        <update_guid_history>4b2de1428eed10108da710401adc3ce0:-1611944214</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 07:39:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_hub_action_type_definition">sys_hub_action_type_definition</sys_db_object>
+        <sys_id>129d37fde14b40b291a8355e5b5fea64</sys_id>
+        <sys_metadata>7e2de1420fed1010747dc7d92f767edd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create Cluster</sys_name>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_scope_delete display_value="">1f006896ad894438ad5cd96c43da2da9</sys_scope_delete>
+        <sys_update_name>sys_hub_action_type_definition_7e2de1420fed1010747dc7d92f767edd</sys_update_name>
+        <sys_update_version display_value="sys_hub_action_type_definition_7e2de1420fed1010747dc7d92f767edd">446ca15adb2d1410922a232d139619d0</sys_update_version>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 07:39:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

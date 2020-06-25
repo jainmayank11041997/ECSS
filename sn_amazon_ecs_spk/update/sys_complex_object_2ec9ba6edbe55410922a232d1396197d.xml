@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6ac9ba6ec0e554105be4372a3ad1af7d</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD6ac9ba6ec0e554105be4372a3ad1af7d":{"clusterArn":"String","clusterArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Cluster ARN\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\"}"},"desiredCount":"String","desiredCount.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Desired Count\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\"}"},"serviceArn":"String","serviceArn.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Service ARN\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\"}"},"taskDefinition":"String","taskDefinition.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Task Definition\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\"}"},"serviceName":"String","serviceName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Service Name\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\"}"},"events":[{"$2015_events":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ID\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"mandatory\":\"true\",\"order\":\"9\",\"max_length\":\"0\"}"}}}],"events.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Events\",\"mandatory\":\"true\",\"child_name\":\"events\",\"uiTypeLabel\":\"$2017:events\",\"child_label\":\"Events\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"6\",\"max_length\":\"0\",\"child_uiUniqueId\":\"5c2faba9-5928-47db-97ee-6ba52a4e8039\"}"}},"FlowDesigner:FD6ac9ba6ec0e554105be4372a3ad1af7d.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6ac9ba6ec0e554105be4372a3ad1af7d\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"Service\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"65000\",\"uiUniqueId\":\"d571bf53-c6af-420a-87a2-4be7cc3df043\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-25 04:40:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2ec9ba6edbe55410922a232d1396197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6ac9ba6ec0e554105be4372a3ad1af7d</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_2ec9ba6edbe55410922a232d1396197d</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-25 04:40:19</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

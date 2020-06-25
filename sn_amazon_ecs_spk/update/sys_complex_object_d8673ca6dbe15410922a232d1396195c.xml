@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD18673ca670e15410dde004805d2d9e5c</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>9465375c0fa91010747dc7d92f767ed4</scope_name>
+        <serialized_content>{"FlowDesigner:FD18673ca670e15410dde004805d2d9e5c":{"$COCollectionField":[{"placement_constraints":{"expression":"String","expression.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Expression\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"type":"String","type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Choice\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"choice\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}","SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"Distinct Instance\":\"{\\\"label\\\":\\\"Distinct Instance\\\",\\\"value\\\":\\\"distinctInstance\\\",\\\"order\\\":1}\",\"Member OF\":\"{\\\"label\\\":\\\"Member OF\\\",\\\"value\\\":\\\"memberOf\\\",\\\"order\\\":2}\"}}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Placement Constraints\",\"mandatory\":\"false\",\"child_name\":\"placement_constraints\",\"uiUniqueId\":\"c33e5536-e60d-4f1f-87d7-15918b25a2a5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD18673ca670e15410dde004805d2d9e5c\",\"child_label\":\"Placement Constraints\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"898179ed-afdb-4816-8a8d-9bd0ad9ec0c7\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD18673ca670e15410dde004805d2d9e5c.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Placement Constraints\",\"mandatory\":\"false\",\"child_name\":\"placement_constraints\",\"uiUniqueId\":\"c33e5536-e60d-4f1f-87d7-15918b25a2a5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD18673ca670e15410dde004805d2d9e5c\",\"child_label\":\"Placement Constraints\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"10\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"898179ed-afdb-4816-8a8d-9bd0ad9ec0c7\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>mayank.jain@snc</sys_created_by>
+        <sys_created_on>2020-06-24 19:10:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>d8673ca6dbe15410922a232d1396195c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD18673ca670e15410dde004805d2d9e5c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Amazon Elastic Container Service Spoke" source="sn_amazon_ecs_spk">9465375c0fa91010747dc7d92f767ed4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Amazon Elastic Container Service Spoke">9465375c0fa91010747dc7d92f767ed4</sys_scope>
+        <sys_update_name>sys_complex_object_d8673ca6dbe15410922a232d1396195c</sys_update_name>
+        <sys_updated_by>mayank.jain@snc</sys_updated_by>
+        <sys_updated_on>2020-06-24 19:10:33</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
